@@ -2,4 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="darkViolin">#601BDA</color>
+    <color name="violin">#9F7ED8</color>
+    <color name="green">#32E312</color>
+    <color name="red">#F11A1A</color>
+
+
+
+
 </resources>
